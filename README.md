@@ -1,1 +1,1 @@
-#kenedymoura/portugolexercises
+#kenedymoura/portugol-exercises
